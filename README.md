@@ -1,1 +1,1 @@
-# CoordinatorTest
+Implementation of basic coordinator pattern.
